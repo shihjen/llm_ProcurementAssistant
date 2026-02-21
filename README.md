@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
+![Local LLM](https://img.shields.io/badge/LLM-Ollama-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 ## 📄 Smart Procurement Assistant (Local LLM)
 
 A lightweight AI-assisted procurement application that uses a locally hosted Large Language Model (LLM) to extract, structure, and compare vendor quotations against procurement requirements.
