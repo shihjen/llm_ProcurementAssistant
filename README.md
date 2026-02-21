@@ -1,5 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
+![Langchain](https://img.shields.io/badge/Framework-Langchain-orange)
 ![Local LLM](https://img.shields.io/badge/LLM-Ollama-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
